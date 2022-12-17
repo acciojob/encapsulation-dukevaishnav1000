@@ -7,7 +7,7 @@ public class Main {
 
         //obj.name="rikku";
         //System.out.println(obj.name);
-        obj.setter("rikku");
-        System.out.println(obj.getter());
+        obj.setName("rikku");
+        System.out.println(obj.getName());
     }
 }
